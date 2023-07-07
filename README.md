@@ -1,8 +1,8 @@
 # Multi-fidelity surrogate model experiment
 
-This repository contains an experimental study on multi-fidelity surrogate models using artificially constructed multi-fidelity data. The artificially constructed multi-fidelity data consists of three types: multi-fidelity data with additive noise, multi-fidelity data with multiplicative noise, and multi-fidelity data with mixed noise (additive and multiplicative).
+This repository contains an experimental study on multi-fidelity surrogate models using artificially constructed multi-fidelity data. The artificially constructed multi-fidelity data consists of three types: multi-fidelity data with additive noise, multi-fidelity data with multiplicative noise, and multi-fidelity data with mixed noise (additive and multiplicative noise).
 
-The experiment utilizes three methods: additive correction, multiplicative correction, and Co-Kriging-based integrated correction. Each method is evaluated on the three different noise types of multi-fidelity data sets. A hypothetical ideal function (ground truth function) is assumed, and its parameters are randomly set for each experiment. The experiments are repeated 100 times, and the average mean squared error (MSE) is calculated.
+The experiment utilizes three methods: additive correction, multiplicative correction, and Co-Kriging-based comprehensive correction. Each method is evaluated on the three different noise types of multi-fidelity data sets. A hypothetical ideal function (ground truth function) is assumed, and its parameters are randomly set for each experiment. The experiments are repeated 100 times, and the average mean squared error (MSE) is calculated.
 
 ## File Descriptions
 
