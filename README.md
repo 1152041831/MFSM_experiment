@@ -16,8 +16,9 @@ The experiment utilizes three methods: additive correction, multiplicative corre
 
 Please refer to the individual file descriptions for more details on each file.
 
-## Installation
+## Environment
+Python Version: 3.11.4
 
-1. Clone this repository to your local machine.
-2. Install the required dependencies using the following command:
+
+
 
