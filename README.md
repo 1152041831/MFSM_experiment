@@ -1,4 +1,4 @@
-# MFSM_experiment (Multi-fidelity surrogate model experiment)
+# Multi-fidelity surrogate model experiment
 
 This repository contains an experimental study on multi-fidelity surrogate models using artificially constructed multi-fidelity data. The artificially constructed multi-fidelity data consists of three types: multi-fidelity data with additive noise, multi-fidelity data with multiplicative noise, and multi-fidelity data with mixed noise (additive and multiplicative).
 
