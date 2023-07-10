@@ -6,7 +6,7 @@ The experiment utilizes three methods: additive correction, multiplicative corre
 
 ## File Descriptions
 
-- `100_correction.py`: Running this file will generate the experimental results for 100 random sets of parameters for the ground truth function. It calculates the average MSE for the three correction methods over the 100 experiments. Additionally, it includes a comparison with a high-fidelity data fitting model (HFDM).
+- `100_correction.py`: Running this file will generate the experimental results for 100 random sets of parameters for the ground truth function. It calculates the average MSE for the three correction methods (additive, multiplicative and comprehensive correction) over the 100 experiments. Additionally, it includes a comparison with a high-fidelity data fitting model (HFDM).
 
 - `100_parameters.txt`: This file displays the parameter selections for the ground truth function in each of the 100 experiments. Each line represents a set of parameters.
 
