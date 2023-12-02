@@ -16,8 +16,6 @@ The experiment utilizes three methods: additive correction, multiplicative corre
 
 - `1_of_100_correction.py`: This script showcases the results of one specific experiment out of the 100. It plots the high and low fidelity data points under different noise conditions, along with the three correction methods and HFDM.
 
-- `result.pdf`: This is the vector graphic illustration obtained after running `1_of_100_correction.py`, displaying the results.
-
 Please refer to the individual file descriptions for more details on each file.
 
 ## Environment
